@@ -4,6 +4,10 @@ module.exports = {
   darkMode: "class",
   theme: {
     extend: {
+      borderWidth: {
+        '12': '1.2rem',
+        '16': '1.6rem',
+      },
       fontFamily: {
         body: ["Space Grotesk", "sans-serif"],
         heading: ["Space Grotesk", "sans-serif"],
