@@ -11,8 +11,8 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: 
-      { light:'/resources/icon-lm.svg', 
-        dark:'/resources/icon-dm.svg'
+      { light:'https://raw.githubusercontent.com/TomGaleano/blog/20dbcb29b7b9d98a6f05015d0c9a1c20c2d3b6fd/resources/icon-lm.svg',
+        dark:'https://raw.githubusercontent.com/TomGaleano/blog/20dbcb29b7b9d98a6f05015d0c9a1c20c2d3b6fd/resources/icon-lm.svg'
       },
     nav: [
       { text: 'Inicio', link: '/' },

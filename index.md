@@ -13,15 +13,15 @@ hero:
 
 features:
   - icon:
-      src: /resources/groups-icon.svg
+      src: https://raw.githubusercontent.com/TomGaleano/blog/20dbcb29b7b9d98a6f05015d0c9a1c20c2d3b6fd/resources/groups-icon.svg
     title: Teoría de Grupos
     details: Definiciones de grupos, ejemplos y teoría de Sylow.
   - icon:
-      src: /resources/rings-icon.svg
+      src: https://raw.githubusercontent.com/TomGaleano/blog/20dbcb29b7b9d98a6f05015d0c9a1c20c2d3b6fd/resources/rings-icon.svg
     title: Anillos
     details: Definiciones de anillos, propiedades básicas, polinomios y ejercicios.
   - icon:
-      src: /resources/galois-icon.svg
+      src: https://raw.githubusercontent.com/TomGaleano/blog/20dbcb29b7b9d98a6f05015d0c9a1c20c2d3b6fd/resources/galois-icon.svg
     title: Teoría de Galois
     details: Una introducción a la vez que tutorial al uso de Manim para crear videos de matemáticas.
 ---
