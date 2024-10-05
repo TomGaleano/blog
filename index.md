@@ -8,12 +8,6 @@ hero:
   tagline: Encontrarás resúmenes y tutoriales alrededor de diferentes temas.
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-    - theme: brand
       text: Teoría de Sylow
       link: /grupos/teoria-de-sylow
 
